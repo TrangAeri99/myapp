@@ -1,0 +1,19 @@
+
+.imagecontainer {
+    float: left;
+    width: 215px;
+    height: auto;
+    margin: 10px 0;
+}
+.imagecontainer img{width: 150px; margin:10px 0;}
+.imageuploader{width: 800px; height: 400px; background-color:#cbeefc;padding: 10px;}
+
+[data-feedback] {
+    margin-bottom: 10px;
+}
+
+[data-feedback].error {
+    color: red;
+}
+
+
